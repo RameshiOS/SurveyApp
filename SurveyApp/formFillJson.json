@@ -1,0 +1,55 @@
+{
+  "id": "1",
+  "formStatus": "not_attempted",
+  "questions": [
+    {
+      "answers": [
+        "Cold",
+        "Cough",
+        "Headache",
+        "Fever",
+        "all the above"
+      ],
+      "question": "What symptoms do you have?"
+    },
+    {
+      "answers": [
+        "Last Month",
+        "Last Year",
+        "Last week ",
+        "None"
+      ],
+      "question": "When did you travelled Internationally for last time?"
+    },
+    {
+      "answers": [
+        "Listening Music",
+        "Playing Cricket",
+        "Coding",
+        "Travelling",
+        "all the above"
+      ],
+      "question": "What are your hobbies?"
+    },
+    {
+      "answers": [
+        "Hyderabad",
+        "Delhi",
+        "Mumbai",
+        "Chennai",
+        "Not listed in options"
+      ],
+      "question": "Where do you live"
+    },
+    {
+      "answers": [
+        "Bachelors Degree",
+        "High School",
+        "Post graduate",
+        "Diploma",
+        "all the above"
+      ],
+      "question": "What is your qualification?"
+    }
+  ]
+}
