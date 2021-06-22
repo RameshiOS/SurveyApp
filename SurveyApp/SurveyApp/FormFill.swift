@@ -8,7 +8,7 @@
 import Foundation
 
 // MARK: - Welcome
-struct Form: Codable {
+struct FormFill: Codable {
     let id, formStatus: String
     let questions: [Question]
 }
